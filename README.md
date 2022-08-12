@@ -1,7 +1,7 @@
 # Simplex
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/105108977/184346269-d94f43a3-7993-4ef2-8640-fad84013f79a.png">
+  <img src="https://user-images.githubusercontent.com/105108977/184349585-e8706b34-59c4-47a9-a81c-fa9072f74b56.png">
 </p>
 
 Simplex (Simple - translated to Latin) - it is a simple browser, written on Python. The difference from other similar system is only built-in VirtualPrivateNetwork support.
