@@ -1,0 +1,7 @@
+1 line - Browser Language
+2 line - Max History Value
+3 line - BackGround Color
+4 line - IP adress Changed?
+5 line - Changed IP adress for HTTPS Protocol
+6 line - Changed IP adress for HTTP Protocol
+7 line - Changed IP adress for FTP Protocol
