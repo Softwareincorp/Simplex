@@ -9,22 +9,22 @@ Simplex (Simple - translated to Latin) - it is a simple browser, written on Pyth
 # Illustrations
 
 Main page:
-![image](https://user-images.githubusercontent.com/105108977/184525401-51e618b4-f72f-4157-935f-dac537dbe0a2.png)
+![image](https://user-images.githubusercontent.com/105108977/184525838-3395426f-99b3-4b20-88d0-c3e4f43febcd.png)
 
 Drop menu:
-![image](https://user-images.githubusercontent.com/105108977/184525482-377bafd5-9e3b-4ee9-bb6e-42f2c85dda75.png)
+![image](https://user-images.githubusercontent.com/105108977/184525911-d4d215eb-cf1b-4360-ad29-6ffa1b7dcc28.png)
 
 Protocols settings:
-![image](https://user-images.githubusercontent.com/105108977/184525539-b0c7543e-1354-414a-a9f7-b030a23e553f.png)
+![image](https://user-images.githubusercontent.com/105108977/184525880-52240b3f-c6b7-4650-b8e4-d9bcbd14ff9f.png)
 
 Opened Apps in Drop Menu:
-![image](https://user-images.githubusercontent.com/105108977/184525598-8f4896ca-6e0d-4b1e-937d-0c9dfb81b55a.png)
+![image](https://user-images.githubusercontent.com/105108977/184525892-36232b2c-9575-4e12-a099-5afb32c286ad.png)
 
 HTML Source Viewer:
-![image](https://user-images.githubusercontent.com/105108977/184525619-fa818c22-a653-414f-bed9-3cdcfd3606b2.png)
+![image](https://user-images.githubusercontent.com/105108977/184525947-5d21e333-0308-490a-b24c-160985621ef1.png)
 
 Browse History Viewer:
-![image](https://user-images.githubusercontent.com/105108977/184525660-66c5ac3f-cac7-4ab4-a0b5-b14bd748df51.png)
+![image](https://user-images.githubusercontent.com/105108977/184525986-346f6c44-f7e0-4457-bd1b-0a7ecf4b5d2c.png)
 
 Favourites Page Viewer:
-![image](https://user-images.githubusercontent.com/105108977/184525696-9e50edc0-8ac8-4bc3-9e8d-1091f0513da1.png)
+![image](https://user-images.githubusercontent.com/105108977/184526069-97285e76-9f84-4279-ab00-890f3f4ca0db.png)
